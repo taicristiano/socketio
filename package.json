@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/telosma/viblo-nodejs-chat.git"
+    "url": "git+https://github.com/taicristiano/socketio.git"
   },
-  "author": "duylx",
+  "author": "taitd",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/telosma/viblo-nodejs-chat/issues"
+    "url": "https://github.com/taicristiano/socketio/issues"
   },
-  "homepage": "https://github.com/telosma/viblo-nodejs-chat#readme"
+  "homepage": "https://github.com/taicristiano/socketio#readme"
 }
