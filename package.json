@@ -1,0 +1,26 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "4.15.2",
+    "socket.io": "1.7.3"
+  },
+  "description": "awesome chat",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telosma/viblo-nodejs-chat.git"
+  },
+  "author": "duylx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/telosma/viblo-nodejs-chat/issues"
+  },
+  "homepage": "https://github.com/telosma/viblo-nodejs-chat#readme"
+}
